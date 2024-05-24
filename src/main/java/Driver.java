@@ -18,6 +18,8 @@ public class Driver {
 		
 		counter.multiplyBy(6);
 		
-		System.out.println("Current count:" + counter.getCount());	
+		System.out.println("Current count:" + counter.getCount());
+
+		//
 	}
 }
